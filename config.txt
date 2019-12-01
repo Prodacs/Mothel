@@ -1,0 +1,6 @@
+﻿token=NjMyMjU0NTcwMDc2MTc2NDE0.XePWcQ.yJTY1RrErRoYU1VsgjxPPLt8te4
+owner=541002506084286467
+prefix=$
+game=اغاني
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
